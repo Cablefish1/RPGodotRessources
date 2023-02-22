@@ -20,4 +20,5 @@ This is an intermediate godot course that covers a wide range of topics and game
 - Japanese RPG Combat: core systems
 - Tactical JRPG movement
 - Japanese RPG Combat: User Interface
+
 Even the non-rpg tuts are useful such as the best practices and the visual  novel. Also the gdquest team are very responsive on the site and their discord server(anyone can join that even if they have not paid for a course).
