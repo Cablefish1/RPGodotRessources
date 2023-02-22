@@ -16,9 +16,10 @@ Heartbeast's excellent action RPG tutorial. It's free and a really good introduc
 The videos are a bit messy and lacks the grace of HeartBeasts videos. But they are nice. He's obviously RPG oriented and he does manage to get tools and tips across.
 
 **[Godot 2D Secrets](https://gdquest.mavenseed.com/courses/godot-2d-secrets)** - Paid tutorial by GDQuest.
+
 This is an intermediate godot course that covers a wide range of topics and game genres. It has a few rpg specific courses such as:
 - Japanese RPG Combat: core systems
 - Tactical JRPG movement
 - Japanese RPG Combat: User Interface
 
-Even the non-rpg tuts are useful such as the best practices and the visual  novel. Also the gdquest team are very responsive on the site and their discord server(anyone can join that even if they have not paid for a course).
+Even the non-rpg tutorials are useful such as the best practices and the visual  novel. Also the gdquest team are very responsive on the site and their discord server(anyone can join that even if they have not paid for a course).
