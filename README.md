@@ -28,7 +28,15 @@ Even the non-rpg tutorials are useful such as the best practices and the visual 
 Teach you to install themes to the Godot Editor. Published at godot 3.4 but might still work the same in later versions. Sample theme:  https://mounirtohami.itch.io/godot-dark-theme
 
 ## Other usefull ressources
-**[Yanfly Comics](http://yanfly.moe/comics/)** - comics about RPGs and game design. Not for Godot.
+**[Yanfly Comics](http://yanfly.moe/comics/)** - comics about RPGs and game design. Not Godot specifically.
 
 While this comic is aimed at people who use rpgmaker the advice can extend to anyone making a jrpg, especially people who have never finished their own games. It attempts to give advice on how to finish your rpg by addressing common pitfalls people fall into while making their games and offering solutions.
+
+## Plugins and scripts
+
+**[Kanban tasks](https://github.com/HolonProduction/godot_kanban_tasks)** - Kanbans Task Organizer.
+
+The hardest part of development may as well be organization, this plugin trivializes that aspect. It is similar to Trello as it can store color coded notes in several lists and each note is also a text file on itself which can store even more info inside it. It also supports having multiple lists and is highly customizable. Available for the asset store for both 3.5 and 4.0 (the latter is in beta).
+
+
 
