@@ -38,5 +38,8 @@ While this comic is aimed at people who use rpgmaker the advice can extend to an
 
 The hardest part of development may as well be organization, this plugin trivializes that aspect. It is similar to Trello as it can store color coded notes in several lists and each note is also a text file on itself which can store even more info inside it. It also supports having multiple lists and is highly customizable. Available for the asset store for both 3.5 and 4.0 (the latter is in beta).
 
+**[godot dice syntax](https://godotengine.org/asset-library/asset/1282)
+
+This nifty little script bag makes it possible to roll all kinds of RPG dice using simple text commands. While very awesome it's a bit unfriendly to noobs like me. The roll functions returns dictionaries with the results where it would mostly be easier to just have the numeric value. The code could be commented a bit more. However it can do anything tabletop RPG dice is supposed to be doing so it is probably useful for people above the beginner skill level. Available for both Godot 3.5 and 4.0.
 
 
