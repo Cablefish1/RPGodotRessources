@@ -24,6 +24,9 @@ This is an intermediate godot course that covers a wide range of topics and game
 
 Even the non-rpg tutorials are useful such as the best practices and the visual  novel. Also the gdquest team are very responsive on the site and their discord server(anyone can join that even if they have not paid for a course).
 
+**[Godot Theme Editor](https://www.youtube.com/watch?v=3AGGBZVVVTw) - Tutorial from GDQuest. 
+Teach you to install themes to the Godot Editor. Published at godot 3.4 but might still work the same in later versions. Sample theme:  https://mounirtohami.itch.io/godot-dark-theme
+
 ## Other usefull ressources
 **[Yanfly Comics](http://yanfly.moe/comics/)** - comics about RPGs and game design. Not for Godot.
 
