@@ -3,6 +3,10 @@ This document contains all the ressources collected from the **[RPGodot Discord 
 
 ## Tutorials and guides
 
+**[Action RPG Tutorial](https://www.youtube.com/playlist?list=PLMQtM2GgbPEVuTgD4Ln17ombTg6EahSLr)** -  A youtube tutorial for Godot 4.0 by Makertech.
+
+This neat tutorial by Makertech takes you through the process of making an ActionRPG from scratch.
+
 **[Create an RPG in Godot](https://gamedevacademy.org/rpg-godot-tutorial/)** - Written Tutorial for Godot 3.X by GameDevAcademy
 
 A very basic tutorial for making a simple action RPG in Godot. It's text and not video-based however it doesn't really explain a lot. The best thing i can say about it is that you'll have a working RPG prototype really fast if you're following this one.
