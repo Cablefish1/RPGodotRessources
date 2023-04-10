@@ -27,6 +27,9 @@ Even the non-rpg tutorials are useful such as the best practices and the visual 
 **[Godot Theme Editor](https://www.youtube.com/watch?v=3AGGBZVVVTw) - Tutorial from GDQuest. 
 Teach you to install themes to the Godot Editor. Published at godot 3.4 but might still work the same in later versions. Sample theme:  https://mounirtohami.itch.io/godot-dark-theme
 
+**[Game Programming Patterns](https://gameprogrammingpatterns.com/)** 
+An online book on how to more effectively tie your code together. Contains loads of useful advice and practices for anyone just beyond absolute beginner level. 
+
 ## Other usefull ressources
 **[Yanfly Comics](http://yanfly.moe/comics/)** - comics about RPGs and game design. Not Godot specifically.
 
@@ -44,3 +47,6 @@ This nifty little script bag makes it possible to roll all kinds of RPG dice usi
 
 **[Godot dice bag](https://godotengine.org/asset-library/asset/1658)** - Various dice and rng functions.
 This is a quite simple script that allows the roll of many types of dies and rolls through functions instead of syntax commands. The scripts are understandable and more beginner friendly. However it is not as functional and flexible as the Dice Syntax. It's for both 3.5 and 4.0.
+
+**[Panku Console](https://godotengine.org/asset-library/asset/1558)** 
+Enables a console that allows for simple debugging tools when the game is running.
