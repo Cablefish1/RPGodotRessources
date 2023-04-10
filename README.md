@@ -40,7 +40,13 @@ Neat little intro to custom classes in Godot.
 Teach you to install themes to the Godot Editor. Published at godot 3.4 but might still work the same in later versions. Sample theme:  https://mounirtohami.itch.io/godot-dark-theme
 
 **[Game Programming Patterns](https://gameprogrammingpatterns.com/)** 
+
 An online book on how to more effectively tie your code together. Contains loads of useful advice and practices for anyone just beyond absolute beginner level. 
+
+**[Learn the GDScript Language](https://www.udemy.com/course/learn-the-gdscript-programming-language/)** - Paid course for Godot 3.5
+
+Quite expensive compared to the value gained. Best bought on sales which happens very often.
+
 
 ## Other usefull ressources
 **[Yanfly Comics](http://yanfly.moe/comics/)** - comics about RPGs and game design. Not Godot specifically.
