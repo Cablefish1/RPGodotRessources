@@ -24,6 +24,9 @@ This is an intermediate godot course that covers a wide range of topics and game
 
 Even the non-rpg tutorials are useful such as the best practices and the visual  novel. Also the gdquest team are very responsive on the site and their discord server(anyone can join that even if they have not paid for a course).
 
+**[3D Level Prototyping and Finalizing in Godot](https://www.youtube.com/watch?v=lJoCutmpZuU)** - Video tutorial by Feyter Nerd World
+You can use csg nodes in godot to block out your level, design the layout, make rough estimations of everything, and then export it from godot and send it to blender to make the art for the level.
+
 **[Godot Theme Editor](https://www.youtube.com/watch?v=3AGGBZVVVTw) - Tutorial from GDQuest. 
 Teach you to install themes to the Godot Editor. Published at godot 3.4 but might still work the same in later versions. Sample theme:  https://mounirtohami.itch.io/godot-dark-theme
 
@@ -50,3 +53,4 @@ This is a quite simple script that allows the roll of many types of dies and rol
 
 **[Panku Console](https://godotengine.org/asset-library/asset/1558)** 
 Enables a console that allows for simple debugging tools when the game is running.
+In addition there is MooseNotifications, this is a extracted from the panku console. See example scene and script for how to use. it adds popup style notifications with a simple Notifications.add_message("text") and Notifications.add_alert("text"). Not super polished, but works ok. Does have room for improvement. https://github.com/sxmxc/MooseNotifications
