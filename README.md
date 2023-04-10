@@ -40,6 +40,9 @@ While this comic is aimed at people who use rpgmaker the advice can extend to an
 
 ## Plugins and scripts
 
+**[Fallout Style Lockpicking and Hacking minigames](https://github.com/thelastflapjack/godot_hacking_mini_games)** - Godot 3 and C-sharp opensource demo by [The Last Flapjack](https://github.com/thelastflapjack).
+It's the hacking and lockpicking you know from Skyrim and Fallout made into a simple opensource demo project. 
+
 **[Kanban tasks](https://github.com/HolonProduction/godot_kanban_tasks)** - Trello like todo plugin.
 
 The hardest part of development may as well be organization, this plugin trivializes that aspect. It is similar to Trello as it can store color coded notes in several lists and each note is also a text file on itself which can store even more info inside it. It also supports having multiple lists and is highly customizable. Available for the asset store for both 3.5 and 4.0 (the latter is in beta).
