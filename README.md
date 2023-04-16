@@ -7,6 +7,14 @@ This document contains all the ressources collected from the **[RPGodot Discord 
 
 This neat tutorial by Makertech takes you through the process of making an ActionRPG from scratch.
 
+**[Inventory System from Scratch](https://www.youtube.com/watch?v=V79YabQZC1s)** - Godot 4.0 tutorial by DevLogLogan.
+
+This is a fast paced tutorial. Not for the absolute beginner but whomever can follow along will have an working inventory system with lots of functionality fast.
+
+**[3D Day Night Cycle](https://www.youtube.com/watch?v=1Ibr3ENAOrE)** - Godot 4 tutorial by Robin Lamb.
+
+A real quick tutorial on how to make a day night cycle.
+
 **[Create an RPG in Godot](https://gamedevacademy.org/rpg-godot-tutorial/)** - Written Tutorial for Godot 3.X by GameDevAcademy
 
 A very basic tutorial for making a simple action RPG in Godot. It's text and not video-based however it doesn't really explain a lot. The best thing i can say about it is that you'll have a working RPG prototype really fast if you're following this one.
