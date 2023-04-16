@@ -63,6 +63,10 @@ While this comic is aimed at people who use rpgmaker the advice can extend to an
 
 ## Plugins and scripts
 
+**[Nancoks library of godot 4 classes](https://github.com/NancokPS2/godot-library-classes)** - Assorted classes from Nancok.
+
+Stuff like object, saving and loading, cheat consoles, action remapper. Take a look!
+
 **[Godot Game Tools](https://viniguerrero.itch.io/godot-game-tools)** - A blender addon by Vinicius Guerrero.
 
 Apparently this helps you animate blender models. Only tested in 3.X
