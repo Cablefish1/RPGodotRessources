@@ -40,7 +40,12 @@ Even the non-rpg tutorials are useful such as the best practices and the visual 
 
 You can use csg nodes in godot to block out your level, design the layout, make rough estimations of everything, and then export it from godot and send it to blender to make the art for the level.
 
-**[Introduction to Classes](https://www.youtube.com/watch?v=y3faMdIb2II) - Godot 4 Tutorial by Bitlytic.
+**[Introduction to Classes](https://www.youtube.com/watch?v=y3faMdIb2II)** - Godot 4 Tutorial by Bitlytic.
+
+**[Free Synth Plugins](https://www.youtube.com/watch?v=hYtrfHuKPwI)** - Collection of free sound software.
+
+Pretty cool if you're going for that retro scifi 80s synth sound. 
+
 
 Neat little intro to custom classes in Godot.
 
