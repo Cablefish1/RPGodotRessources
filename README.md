@@ -55,7 +55,12 @@ While this comic is aimed at people who use rpgmaker the advice can extend to an
 
 ## Plugins and scripts
 
+**[Godot Game Tools](https://viniguerrero.itch.io/godot-game-tools)** - A blender addon by Vinicius Guerrero.
+
+Apparently this helps you animate blender models. Only tested in 3.X
+
 **[Fallout Style Lockpicking and Hacking minigames](https://github.com/thelastflapjack/godot_hacking_mini_games)** - Godot 3 and C-sharp opensource demo by [The Last Flapjack](https://github.com/thelastflapjack).
+
 It's the hacking and lockpicking you know from Skyrim and Fallout made into a simple opensource demo project. 
 
 **[Kanban tasks](https://github.com/HolonProduction/godot_kanban_tasks)** - Trello like todo plugin.
