@@ -11,8 +11,12 @@ house9919
 
 ## Artists
 varsilia https://www.youtube.com/@velgatheobserver
+
 Hobbyistguy
 
+Kashan
+
+Spice_Lord
 
 ## CC0 Assets used
 
