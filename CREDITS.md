@@ -4,6 +4,19 @@
 Jonathan Eeckhout
 https://github.com/jonathaneeckhout
 
-## Programmer:
+## Programming:
+Nancock https://github.com/NancokPS2/
 
+house9919
+
+## Artists
+varsilia https://www.youtube.com/@velgatheobserver
+Hobbyistguy
+
+
+## CC0 Assets used
+
+
+## Compiler of lists
+Cablefish https://github.com/Cablefish1
 
