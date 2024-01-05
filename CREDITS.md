@@ -7,6 +7,18 @@ https://github.com/jonathaneeckhout
 ## Programming:
 Nancock https://github.com/NancokPS2/
 
+Toprak2
+
+Ivoryfitz
+
+fox-alpha
+
+noaza 
+
+Jano urhmacher 
+
+swaptrap
+
 house9919
 
 ## Artists
