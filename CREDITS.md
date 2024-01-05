@@ -12,6 +12,8 @@ house9919
 ## Artists
 varsilia https://www.youtube.com/@velgatheobserver
 
+Gin sure https://www.artstation.com/janouhrmacher
+
 Hobbyistguy
 
 Kashan
